@@ -1,0 +1,10 @@
+#+title: Tadig
+
+| TadigCode | Operator    |
+|-----------+-------------|
+| IRN11     | MCI         |
+| IRNMI     | MTN Irancel |
+| IRNRI     | Taliya      |
+| IRNKI     | KISH        |
+| IRNTT     | RighTel     |
+| MBNNT     | Mobinnet    |
